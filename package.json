@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://matti661.github.io/breakout-game",
+  "homepage": "https://matti661.github.io/BreakoutGame",
   "browserslist": {
     "production": [
       ">0.2%",
