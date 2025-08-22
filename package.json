@@ -1,5 +1,5 @@
 {
-  "name": "breakout-game",
+  "name": "BreakoutGame",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://DEIN_USERNAME.github.io/breakout-game",
+  "homepage": "https://matti661.github.io/BreakoutGame",
   "browserslist": {
     "production": [
       ">0.2%",
